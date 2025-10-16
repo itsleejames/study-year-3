@@ -15,6 +15,8 @@ import java.util.regex.Pattern;
 
 public class SiteScraper_Starter {
 
+    // Write one that uses a runnable and a callable
+
     public static void main(String[] args) {
         //Start the time measurement for the entire app
         long appStartTime = System.nanoTime();
